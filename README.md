@@ -12,7 +12,3 @@ this is a song player app made by me (Usama Qasit), I have created this app usin
 * Next / Previous song
 ---
 
-# ScreenShots 
-![splace screen](https://raw.githubusercontent.com/MrNitishroy/Music-Player-Flutter-with-Getx/main/screenshots/splace%20screen.png)
-![All Song screen ](https://github.com/MrNitishroy/Music-Player-Flutter-with-Getx/blob/main/screenshots/song%20page.png?raw=true)
----
